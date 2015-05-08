@@ -100,6 +100,9 @@ _TeamCity*
 _NCrunch_*
 .*crunch*.local.xml
 
+# EditorConfig
+.editorconfig
+
 # MightyMoose
 *.mm.*
 AutoTest.Net/
